@@ -1,0 +1,8 @@
+{
+  "theme": "hacker_classic",
+  "compression": 4,
+  "obfuscate": true,
+  "auto_decode": true,
+  "sound_effects": true,
+  "history_size": 50
+}
