@@ -3,6 +3,8 @@
 ![PulseLang Screenshot](./demo/Puls_Lang.png)  
 *Professional interface with cyberpunk aesthetics*
 
+## Software Icon 
+![Software Icon](./icon.ico)
 PulseLang is a cutting-edge signal encryption system designed for secure communications in high-risk environments. Developed by Shiboshree Roy, this application converts text into pulse-based encoded signals and vice versa, featuring advanced security tools and a professional hacker-themed interface.
 
 ## Key Features
