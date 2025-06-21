@@ -1,61 +1,52 @@
-# Quantum Cipher Labs Proprietary License
-
-**Copyright © 2025 Shiboshree Roy**
-
-## Usage Terms
-
-### Permitted
-1. **Personal Use**: Installation and use of PulseLang v3.0 for individual, non-commercial purposes
-2. **Educational Use**: Classroom instruction and academic research with proper attribution
-3. **Security Research**: Vulnerability testing and analysis with prior written consent
-
-### Restricted
-1. **Commercial Use**: Any revenue-generating activity including but not limited to:
-   - SaaS implementations
-   - Consulting services
-   - Commercial distribution
-2. **Modification**: Reverse engineering, decompilation, or code alteration
-3. **Military Applications**: Weapons systems, surveillance, or intelligence operations
-4. **Redistribution**: Repackaging, reselling, or unauthorized distribution channels
-
-## Intellectual Property
-All rights to PulseLang v3.0 including:
-- Source code
-- Algorithms
-- UI/UX design
-- Documentation
-- Brand elements
-
-are exclusively owned by Shiboshree Roy and protected under international copyright laws.
-
-## Liability Disclaimer
-```
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY 
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
-TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-```
-
-## Commercial Licensing
-For commercial use, government applications, or enterprise deployment, contact:
-
-**Shiboshree Roy**  
-Quantum Cipher Labs  
-Email: licensing@quantumcipherlabs.com  
-
-Commercial license features:
-- Priority support
-- Custom feature development
-- White-label solutions
-- Enterprise-grade SLAs
-- Legal indemnification
-
-## Violations
-Unauthorized use will result in:
-1. Immediate termination of usage rights
-2. Legal action under the Computer Fraud and Abuse Act (CFAA)
-3. Civil penalties of up to $150,000 per violation
-4. Criminal prosecution where applicable
+Quantum Cipher Labs Proprietary License
+ Product: PulseLang v3.0
+ Author: Shiboshree Roy
+ Organization: Quantum Cipher Labs
+ Version: 3.0
+ Year: © 2025
+ 1. Usage Terms
+ 1.1 Permitted Uses- Personal Use: You may install and use PulseLang v3.0 for non-commercial, individual purposes.- Educational Use: Use in classrooms, universities, research institutions is permitted with proper
+ credit to the author.- Security Research: Allowed under ethical guidelines and with prior written authorization from
+ Quantum Cipher Labs.
+ 1.2 Restricted Uses- Commercial Use: Any for-profit use including, but not limited to:
+  - Software-as-a-Service (SaaS) offerings
+  - Paid consulting or freelance services
+  - Monetized app distributions- Modification or Reverse Engineering: You may not:
+  - Decompile, disassemble, or modify source code
+  - Derive competing technologies or redistribute under altered form- Military & Government Use: Strictly prohibited for:
+  - Surveillance or intelligence tools
+  - Weapons systems or tactical operations- Unauthorized Redistribution: You are prohibited from:
+  - Sharing or publishing the software in part or whole
+  - Re-hosting binaries or source code on public or private repositories
+ 2. Intellectual Property
+ PulseLang v3.0 and all associated assets are the sole intellectual property of Shiboshree Roy,
+ including but not limited to:- Source code & compilation units- Encoding/decoding algorithms- Graphical user interface (GUI)- Brand names, trademarks, and visual design- Documentation, specifications, and licensing text
+ This software is protected under international copyright law.
+ 3. Liability Disclaimer
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+ A PARTICULAR 
+PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+ HOLDERS BE LIABLE 
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+ TORT OR OTHERWISE, 
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+ OTHER DEALINGS IN THE SOFTWARE.
+ 4. Commercial Licensing
+ For enterprise, governmental, or commercial deployment of PulseLang v3.0, contact:
+ Shiboshree Roy
+ Lead Developer & Licensing Officer
+ Quantum Cipher Labs
+ Email: licensing@quantumcipherlabs.com
+ Commercial License Benefits:- Custom Feature Development- Priority Technical Support- White-label / OEM Options- Legal Indemnification & SLA- Integration Consulting
+ 5. Violation & Enforcement
+ Any breach of this license will result in:
+ 1. Immediate revocation of access and usage rights
+ 2. Legal proceedings under applicable civil and criminal statutes
+ 3. Financial penalties of up to $150,000 per violation
+ 4. Criminal prosecution, where national security or privacy laws are violated
+6. Acknowledgment
+ By installing or using PulseLang v3.0, you acknowledge that you have read, understood, and agreed
+ to be bound by the terms of this license.
+ © 2025 Shiboshree Roy. All Rights Reserved
