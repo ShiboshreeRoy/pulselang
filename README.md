@@ -66,6 +66,9 @@ pip3 install pyperclip
 # Launch application
 python3 pulselang.py
 ```
+### Windows
+[Download Now](./dist/pulselang.exe)
+
 
 ## User Guide
 
